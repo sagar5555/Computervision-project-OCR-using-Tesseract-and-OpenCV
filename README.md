@@ -1,1 +1,1 @@
-# Data-science-projects1
+Optical character recogniztion model
